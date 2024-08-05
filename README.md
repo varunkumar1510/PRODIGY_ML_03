@@ -30,7 +30,7 @@ Results
 The final predictions for the test images are saved in a CSV file, predictions.csv, which includes filenames and predicted labels. This file can be used to assess the model’s performance on unseen data.
 
 This project showcases the application of machine learning for image classification tasks, demonstrating how SVM can be used for binary classification problems in computer vision.
-
+Datasets from https://www.kaggle.com/c/dogs-vs-cats/data
 
 
 
